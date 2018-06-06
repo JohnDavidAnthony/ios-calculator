@@ -2,17 +2,17 @@
 
 Simple, no frills, ios calculator. With cutting-edge features
 
-![Gif of the app being used](screens/use.gif)
+<img src="screens/use.gif" alt="Gif of the app being used" width="400px" height="auto">
 
 # All new dynamic addition engine
 - Improve your arithmetic game by adding different numbers together
 
-![photo of addition](screens/addition.png)
+<img src="screens/addition.png" alt="Gif of the app being used" width="400px" height="auto">
 
 # Now Introducing negative numbers
 - seamlessly subtract numbers to create *smaller* numbers
 
-![photo of subtraction](screens/negative.png)
+<img src="screens/negative.png" alt="Gif of the app being used" width="400px" height="auto">
 
 
 
